@@ -1,0 +1,47 @@
+function res = plot_results(file_name)
+t = readtable(file_name);
+[rows, columns] = size(t);
+hours = rows;
+
+res = containers.Map
+    
+D_el = table2array(t(1:hours,2));
+res('D_el') = D_el;
+D_heat = table2array(t(1:hours,3));
+res('D_heat') = D_heat;
+PV = table2array(t(1:hours,4));
+res('PV') = PV;
+ST = table2array(t(1:hours,5));
+res('ST') = ST;
+Bat_stat = table2array(t(1:hours,6));
+res('D_el') = Bat_stat;
+Bat_ch = table2array(t(1:hours,7));
+res('D_el') = D_el;
+Bat_dis = table2array(t(1:hours,8));
+res('D_el') = D_el;
+Tes_stat = table2array(t(1:hours,9));
+res('D_el') = D_el;
+Tes_ch = table2array(t(1:hours,10));
+res('D_el') = D_el;
+Tes_dis = table2array(t(1:hours,11));
+res('D_el') = D_el;
+Boiler = table2array(t(1:hours,12));
+res('D_el') = D_el;
+Power1 = table2array(t(1:hours,13));
+res('D_el') = D_el;
+CHP1 = table2array(t(1:hours,14));
+res('D_el') = D_el;
+Power2 = table2array(t(1:hours,15));
+res('D_el') = D_el;
+CHP2 = table2array(t(1:hours,16));
+res('D_el') = D_el;
+Heat1 = table2array(t(1:hours,17));
+res('D_el') = D_el;
+Import = table2array(t(1:hours,18));
+res('D_el') = D_el;
+Export = table2array(t(1:hours,19));
+res('D_el') = D_el;
+DH = table2array(t(1:hours,20));
+res('D_el') = D_el;
+
+

@@ -1,0 +1,51 @@
+function res = get_data(file_name)
+t = readtable(file_name);
+[rows, columns] = size(t);
+hours = rows;
+
+res = containers.Map
+res('file') = file_name;
+res('hours') = hours;
+    
+D_el = table2array(t(1:hours,2));
+res('D_el') = D_el;
+D_heat = table2array(t(1:hours,3));
+res('D_heat') = D_heat;
+PV = table2array(t(1:hours,4));
+res('PV') = PV;
+ST = table2array(t(1:hours,5));
+res('ST') = ST;
+Bat_stat = table2array(t(1:hours,6));
+res('Bat_stat') = Bat_stat;
+Bat_ch = table2array(t(1:hours,7));
+res('Bat_ch') = Bat_ch;
+Bat_dis = table2array(t(1:hours,8));
+res('Bat_dis') = Bat_dis;
+Tes_stat = table2array(t(1:hours,9));
+res('Tes_stat') = Tes_stat;
+Tes_ch = table2array(t(1:hours,10));
+res('Tes_ch') = Tes_ch;
+Tes_dis = table2array(t(1:hours,11));
+res('Tes_dis') = Tes_dis;
+Boiler = table2array(t(1:hours,12));
+res('Boiler') = Boiler;
+Power1 = table2array(t(1:hours,13));
+res('Power1') = Power1;
+CHP1 = table2array(t(1:hours,14));
+res('CHP1') = CHP1;
+Power2 = table2array(t(1:hours,15));
+res('Power2') = Power2;
+CHP2 = table2array(t(1:hours,16));
+res('CHP2') = CHP2;
+Heat1 = table2array(t(1:hours,17));
+res('Heat1') = Heat1;
+Import = table2array(t(1:hours,18));
+res('Import') = Import;
+Export = table2array(t(1:hours,19));
+res('Export') = Export;
+DH = table2array(t(1:hours,20));
+res('DH') = DH;
+Temp = table2array(t(1:hours,21));
+res('Temp') = Temp;
+
+end %function

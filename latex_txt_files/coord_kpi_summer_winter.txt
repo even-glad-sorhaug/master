@@ -1,0 +1,157 @@
+c x y
+Total cost 3695.034 W+BIO+FC
+Total cost 4838.703 W+BIO
+Total cost 4574.483 W+FC
+Total cost 5453.681 W+IMin+BIO+FC
+Total cost 5612.052 W+IMin+BIO
+Total cost 5551.682 W+IMin+FC
+Total cost 2042.115 S+BIO+FC
+Total cost 2040.232 S+BIO
+Total cost 2042.115 S+FC
+Total cost 3013.545 S+IMin+BIO+FC
+Total cost 2679.565 S+IMin+BIO
+Total cost 2644.979 S+IMin+FC
+Emissions 104533.333 W+BIO+FC
+Emissions 492588.624 W+BIO
+Emissions 249724.435 W+FC
+Emissions 111135.922 W+IMin+BIO+FC
+Emissions 365167.506 W+IMin+BIO
+Emissions 138163.682 W+IMin+FC
+Emissions 325622.315 S+BIO+FC
+Emissions 325622.315 S+BIO
+Emissions 325622.315 S+FC
+Emissions 116598.149 S+IMin+BIO+FC
+Emissions 243229.914 S+IMin+BIO
+Emissions 116622.828 S+IMin+FC
+Self-generation 1.0 W+BIO+FC
+Self-generation 0.492 W+BIO
+Self-generation 0.666 W+FC
+Self-generation 0.813 W+IMin+BIO+FC
+Self-generation 0.494 W+IMin+BIO
+Self-generation 0.635 W+IMin+FC
+Self-generation 0.134 S+BIO+FC
+Self-generation 0.134 S+BIO
+Self-generation 0.134 S+FC
+Self-generation 0.709 S+IMin+BIO+FC
+Self-generation 0.506 S+IMin+BIO
+Self-generation 0.709 S+IMin+FC
+fc_hours 147 W+BIO+FC
+fc_hours 0 W+BIO
+fc_hours 168 W+FC
+fc_hours 165 W+IMin+BIO+FC
+fc_hours 0 W+IMin+BIO
+fc_hours 168 W+IMin+FC
+fc_hours 0 S+BIO+FC
+fc_hours 0 S+BIO
+fc_hours 0 S+FC
+fc_hours 89 S+IMin+BIO+FC
+fc_hours 0 S+IMin+BIO
+fc_hours 89 S+IMin+FC
+Load factor 0.891 W+BIO+FC
+Load factor nan W+BIO
+Load factor 1.0 W+FC
+Load factor 0.931 W+IMin+BIO+FC
+Load factor nan W+IMin+BIO
+Load factor 0.985 W+IMin+FC
+Load factor nan S+BIO+FC
+Load factor nan S+BIO
+Load factor nan S+FC
+Load factor 0.917 S+IMin+BIO+FC
+Load factor nan S+IMin+BIO
+Load factor 0.917 S+IMin+FC
+TEr 1.731 W+BIO+FC
+TEr 1.731 W+BIO
+TEr 1.731 W+FC
+TEr 1.731 W+IMin+BIO+FC
+TEr 1.731 W+IMin+BIO
+TEr 1.731 W+IMin+FC
+TEr 0.442 S+BIO+FC
+TEr 0.442 S+BIO
+TEr 0.442 S+FC
+TEr 0.442 S+IMin+BIO+FC
+TEr 0.442 S+IMin+BIO
+TEr 0.442 S+IMin+FC
+T_mean 5.498 W+BIO+FC
+T_mean 5.498 W+BIO
+T_mean 5.498 W+FC
+T_mean 5.498 W+IMin+BIO+FC
+T_mean 5.498 W+IMin+BIO
+T_mean 5.498 W+IMin+FC
+T_mean 15.317 S+BIO+FC
+T_mean 15.317 S+BIO
+T_mean 15.317 S+FC
+T_mean 15.317 S+IMin+BIO+FC
+T_mean 15.317 S+IMin+BIO
+T_mean 15.317 S+IMin+FC
+Spot_mean 0.052 W+BIO+FC
+Spot_mean 0.052 W+BIO
+Spot_mean 0.052 W+FC
+Spot_mean 0.052 W+IMin+BIO+FC
+Spot_mean 0.052 W+IMin+BIO
+Spot_mean 0.052 W+IMin+FC
+Spot_mean 0.029 S+BIO+FC
+Spot_mean 0.029 S+BIO
+Spot_mean 0.029 S+FC
+Spot_mean 0.029 S+IMin+BIO+FC
+Spot_mean 0.029 S+IMin+BIO
+Spot_mean 0.029 S+IMin+FC
+el_price 0.671 W+BIO+FC
+el_price 2526.072 W+BIO
+el_price 1689.082 W+FC
+el_price 0.671 W+IMin+BIO+FC
+el_price 1123.116 W+IMin+BIO
+el_price 241.926 W+IMin+FC
+el_price 1604.713 S+BIO+FC
+el_price 1604.713 S+BIO
+el_price 1604.713 S+FC
+el_price 629.942 S+IMin+BIO+FC
+el_price 975.875 S+IMin+BIO
+el_price 629.885 S+IMin+FC
+dh_price 7.192 W+BIO+FC
+dh_price 570.771 W+BIO
+dh_price 543.097 W+FC
+dh_price 1781.931 W+IMin+BIO+FC
+dh_price 2157.835 W+IMin+BIO
+dh_price 2445.431 W+IMin+FC
+dh_price 191.675 S+BIO+FC
+dh_price 189.792 S+BIO
+dh_price 191.675 S+FC
+dh_price 47.007 S+IMin+BIO+FC
+dh_price 25.919 S+IMin+BIO
+dh_price 47.007 S+IMin+FC
+P_imp_max 0.0 W+BIO+FC
+P_imp_max 315.654 W+BIO
+P_imp_max 265.654 W+FC
+P_imp_max 0.0 W+IMin+BIO+FC
+P_imp_max 108.932 W+IMin+BIO
+P_imp_max 48.896 W+IMin+FC
+P_imp_max 338.905 S+BIO+FC
+P_imp_max 338.905 S+BIO
+P_imp_max 338.905 S+FC
+P_imp_max 142.717 S+IMin+BIO+FC
+P_imp_max 142.717 S+IMin+BIO
+P_imp_max 142.717 S+IMin+FC
+Unnamed: 13 nan W+BIO+FC
+Unnamed: 13 nan W+BIO
+Unnamed: 13 nan W+FC
+Unnamed: 13 nan W+IMin+BIO+FC
+Unnamed: 13 nan W+IMin+BIO
+Unnamed: 13 nan W+IMin+FC
+Unnamed: 13 nan S+BIO+FC
+Unnamed: 13 nan S+BIO
+Unnamed: 13 nan S+FC
+Unnamed: 13 nan S+IMin+BIO+FC
+Unnamed: 13 nan S+IMin+BIO
+Unnamed: 13 nan S+IMin+FC
+Unnamed: 14 3441.004 W+BIO+FC
+Unnamed: 14 4584.673 W+BIO
+Unnamed: 14 4320.453 W+FC
+Unnamed: 14 5199.651 W+IMin+BIO+FC
+Unnamed: 14 5358.022 W+IMin+BIO
+Unnamed: 14 5297.652 W+IMin+FC
+Unnamed: 14 1788.085 S+BIO+FC
+Unnamed: 14 1786.202 S+BIO
+Unnamed: 14 1788.085 S+FC
+Unnamed: 14 2759.515 S+IMin+BIO+FC
+Unnamed: 14 2425.535 S+IMin+BIO
+Unnamed: 14 2390.949 S+IMin+FC

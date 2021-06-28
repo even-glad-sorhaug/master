@@ -1,0 +1,529 @@
+c x y
+Total cost 3440.969 W+POD+BIO+FC
+Total cost 3120.892 W+POD+BIO
+Total cost 4392.658 W+POD+FC
+Total cost 5299.153 W+POD+IMin+BIO+FC
+Total cost 4979.077 W+POD+IMin+BIO
+Total cost 5299.153 W+POD+IMin+FC
+Total cost 3443.028 W+IMin+POD+BIO+FC
+Total cost 3122.952 W+IMin+POD+BIO
+Total cost 2754.446 W+IMin+POD+FC
+Total cost 2754.446 W+IMin+POD+IMin+BIO+FC
+Total cost 2754.446 W+IMin+POD+IMin+BIO
+Total cost 2754.446 W+IMin+POD+IMin+FC
+Total cost 1910.151 S+POD+BIO+FC
+Total cost 1968.95 S+POD+BIO
+Total cost 1910.212 S+POD+FC
+Total cost 2392.06 S+POD+IMin+BIO+FC
+Total cost 2071.984 S+POD+IMin+BIO
+Total cost 2392.06 S+POD+IMin+FC
+Total cost 1910.478 S+IMin+POD+BIO+FC
+Total cost 1590.402 S+IMin+POD+BIO
+Total cost 1910.478 S+IMin+POD+FC
+Total cost 2391.592 S+IMin+POD+IMin+BIO+FC
+Total cost 2071.515 S+IMin+POD+IMin+BIO
+Total cost 2391.592 S+IMin+POD+IMin+FC
+Emissions 104533.333 W+POD+BIO+FC
+Emissions 104533.333 W+POD+BIO
+Emissions 250274.302 W+POD+FC
+Emissions 139162.125 W+POD+IMin+BIO+FC
+Emissions 139162.125 W+POD+IMin+BIO
+Emissions 139162.125 W+POD+IMin+FC
+Emissions 105242.965 W+IMin+POD+BIO+FC
+Emissions 105242.965 W+IMin+POD+BIO
+Emissions 105242.965 W+IMin+POD+FC
+Emissions 105242.965 W+IMin+POD+IMin+BIO+FC
+Emissions 105242.965 W+IMin+POD+IMin+BIO
+Emissions 105242.965 W+IMin+POD+IMin+FC
+Emissions 134737.99 S+POD+BIO+FC
+Emissions 243559.552 S+POD+BIO
+Emissions 134222.087 S+POD+FC
+Emissions 116840.069 S+POD+IMin+BIO+FC
+Emissions 116840.069 S+POD+IMin+BIO
+Emissions 116840.069 S+POD+IMin+FC
+Emissions 133440.835 S+IMin+POD+BIO+FC
+Emissions 133440.835 S+IMin+POD+BIO
+Emissions 133427.788 S+IMin+POD+FC
+Emissions 116516.97 S+IMin+POD+IMin+BIO+FC
+Emissions 116516.97 S+IMin+POD+IMin+BIO
+Emissions 116516.97 S+IMin+POD+IMin+FC
+Self-generation 1.0 W+POD+BIO+FC
+Self-generation 1.0 W+POD+BIO
+Self-generation 0.666 W+POD+FC
+Self-generation 0.636 W+POD+IMin+BIO+FC
+Self-generation 0.636 W+POD+IMin+BIO
+Self-generation 0.636 W+POD+IMin+FC
+Self-generation 0.999 W+IMin+POD+BIO+FC
+Self-generation 0.999 W+IMin+POD+BIO
+Self-generation 0.999 W+IMin+POD+FC
+Self-generation 0.999 W+IMin+POD+IMin+BIO+FC
+Self-generation 0.999 W+IMin+POD+IMin+BIO
+Self-generation 0.999 W+IMin+POD+IMin+FC
+Self-generation 0.659 S+POD+BIO+FC
+Self-generation 0.487 S+POD+BIO
+Self-generation 0.661 S+POD+FC
+Self-generation 0.709 S+POD+IMin+BIO+FC
+Self-generation 0.709 S+POD+IMin+BIO
+Self-generation 0.709 S+POD+IMin+FC
+Self-generation 0.663 S+IMin+POD+BIO+FC
+Self-generation 0.663 S+IMin+POD+BIO
+Self-generation 0.663 S+IMin+POD+FC
+Self-generation 0.709 S+IMin+POD+IMin+BIO+FC
+Self-generation 0.709 S+IMin+POD+IMin+BIO
+Self-generation 0.709 S+IMin+POD+IMin+FC
+fc_hours 147 W+POD+BIO+FC
+fc_hours 147 W+POD+BIO
+fc_hours 168 W+POD+FC
+fc_hours 166 W+POD+IMin+BIO+FC
+fc_hours 166 W+POD+IMin+BIO
+fc_hours 166 W+POD+IMin+FC
+fc_hours 146 W+IMin+POD+BIO+FC
+fc_hours 146 W+IMin+POD+BIO
+fc_hours 146 W+IMin+POD+FC
+fc_hours 146 W+IMin+POD+IMin+BIO+FC
+fc_hours 146 W+IMin+POD+IMin+BIO
+fc_hours 146 W+IMin+POD+IMin+FC
+fc_hours 79 S+POD+BIO+FC
+fc_hours 0 S+POD+BIO
+fc_hours 79 S+POD+FC
+fc_hours 89 S+POD+IMin+BIO+FC
+fc_hours 89 S+POD+IMin+BIO
+fc_hours 89 S+POD+IMin+FC
+fc_hours 79 S+IMin+POD+BIO+FC
+fc_hours 79 S+IMin+POD+BIO
+fc_hours 79 S+IMin+POD+FC
+fc_hours 89 S+IMin+POD+IMin+BIO+FC
+fc_hours 89 S+IMin+POD+IMin+BIO
+fc_hours 89 S+IMin+POD+IMin+FC
+Load factor 0.892 W+POD+BIO+FC
+Load factor 0.892 W+POD+BIO
+Load factor 1.0 W+POD+FC
+Load factor 0.999 W+POD+IMin+BIO+FC
+Load factor 0.999 W+POD+IMin+BIO
+Load factor 0.999 W+POD+IMin+FC
+Load factor 0.898 W+IMin+POD+BIO+FC
+Load factor 0.898 W+IMin+POD+BIO
+Load factor 0.898 W+IMin+POD+FC
+Load factor 0.898 W+IMin+POD+IMin+BIO+FC
+Load factor 0.898 W+IMin+POD+IMin+BIO
+Load factor 0.898 W+IMin+POD+IMin+FC
+Load factor 0.887 S+POD+BIO+FC
+Load factor nan S+POD+BIO
+Load factor 0.89 S+POD+FC
+Load factor 0.917 S+POD+IMin+BIO+FC
+Load factor 0.917 S+POD+IMin+BIO
+Load factor 0.917 S+POD+IMin+FC
+Load factor 0.894 S+IMin+POD+BIO+FC
+Load factor 0.894 S+IMin+POD+BIO
+Load factor 0.894 S+IMin+POD+FC
+Load factor 0.917 S+IMin+POD+IMin+BIO+FC
+Load factor 0.917 S+IMin+POD+IMin+BIO
+Load factor 0.917 S+IMin+POD+IMin+FC
+TEr 1.731 W+POD+BIO+FC
+TEr 1.731 W+POD+BIO
+TEr 1.731 W+POD+FC
+TEr 1.731 W+POD+IMin+BIO+FC
+TEr 1.731 W+POD+IMin+BIO
+TEr 1.731 W+POD+IMin+FC
+TEr 1.731 W+IMin+POD+BIO+FC
+TEr 1.731 W+IMin+POD+BIO
+TEr 1.731 W+IMin+POD+FC
+TEr 1.731 W+IMin+POD+IMin+BIO+FC
+TEr 1.731 W+IMin+POD+IMin+BIO
+TEr 1.731 W+IMin+POD+IMin+FC
+TEr 0.442 S+POD+BIO+FC
+TEr 0.442 S+POD+BIO
+TEr 0.442 S+POD+FC
+TEr 0.442 S+POD+IMin+BIO+FC
+TEr 0.442 S+POD+IMin+BIO
+TEr 0.442 S+POD+IMin+FC
+TEr 0.442 S+IMin+POD+BIO+FC
+TEr 0.442 S+IMin+POD+BIO
+TEr 0.442 S+IMin+POD+FC
+TEr 0.442 S+IMin+POD+IMin+BIO+FC
+TEr 0.442 S+IMin+POD+IMin+BIO
+TEr 0.442 S+IMin+POD+IMin+FC
+T_mean 5.498 W+POD+BIO+FC
+T_mean 5.498 W+POD+BIO
+T_mean 5.498 W+POD+FC
+T_mean 5.498 W+POD+IMin+BIO+FC
+T_mean 5.498 W+POD+IMin+BIO
+T_mean 5.498 W+POD+IMin+FC
+T_mean 5.498 W+IMin+POD+BIO+FC
+T_mean 5.498 W+IMin+POD+BIO
+T_mean 5.498 W+IMin+POD+FC
+T_mean 5.498 W+IMin+POD+IMin+BIO+FC
+T_mean 5.498 W+IMin+POD+IMin+BIO
+T_mean 5.498 W+IMin+POD+IMin+FC
+T_mean 15.317 S+POD+BIO+FC
+T_mean 15.317 S+POD+BIO
+T_mean 15.317 S+POD+FC
+T_mean 15.317 S+POD+IMin+BIO+FC
+T_mean 15.317 S+POD+IMin+BIO
+T_mean 15.317 S+POD+IMin+FC
+T_mean 15.317 S+IMin+POD+BIO+FC
+T_mean 15.317 S+IMin+POD+BIO
+T_mean 15.317 S+IMin+POD+FC
+T_mean 15.317 S+IMin+POD+IMin+BIO+FC
+T_mean 15.317 S+IMin+POD+IMin+BIO
+T_mean 15.317 S+IMin+POD+IMin+FC
+Spot_mean 0.052 W+POD+BIO+FC
+Spot_mean 0.052 W+POD+BIO
+Spot_mean 0.052 W+POD+FC
+Spot_mean 0.052 W+POD+IMin+BIO+FC
+Spot_mean 0.052 W+POD+IMin+BIO
+Spot_mean 0.052 W+POD+IMin+FC
+Spot_mean 0.052 W+IMin+POD+BIO+FC
+Spot_mean 0.052 W+IMin+POD+BIO
+Spot_mean 0.052 W+IMin+POD+FC
+Spot_mean 0.052 W+IMin+POD+IMin+BIO+FC
+Spot_mean 0.052 W+IMin+POD+IMin+BIO
+Spot_mean 0.052 W+IMin+POD+IMin+FC
+Spot_mean 0.029 S+POD+BIO+FC
+Spot_mean 0.029 S+POD+BIO
+Spot_mean 0.029 S+POD+FC
+Spot_mean 0.029 S+POD+IMin+BIO+FC
+Spot_mean 0.029 S+POD+IMin+BIO
+Spot_mean 0.029 S+POD+IMin+FC
+Spot_mean 0.029 S+IMin+POD+BIO+FC
+Spot_mean 0.029 S+IMin+POD+BIO
+Spot_mean 0.029 S+IMin+POD+FC
+Spot_mean 0.029 S+IMin+POD+IMin+BIO+FC
+Spot_mean 0.029 S+IMin+POD+IMin+BIO
+Spot_mean 0.029 S+IMin+POD+IMin+FC
+el_price 0.671 W+POD+BIO+FC
+el_price 0.671 W+POD+BIO
+el_price 1689.975 W+POD+FC
+el_price 244.097 W+POD+IMin+BIO+FC
+el_price 244.097 W+POD+IMin+BIO
+el_price 244.097 W+POD+IMin+FC
+el_price 50.833 W+IMin+POD+BIO+FC
+el_price 50.833 W+IMin+POD+BIO
+el_price 50.833 W+IMin+POD+FC
+el_price 50.833 W+IMin+POD+IMin+BIO+FC
+el_price 50.833 W+IMin+POD+IMin+BIO
+el_price 50.833 W+IMin+POD+IMin+FC
+el_price 849.611 S+POD+BIO+FC
+el_price 1042.572 S+POD+BIO
+el_price 826.964 S+POD+FC
+el_price 630.868 S+POD+IMin+BIO+FC
+el_price 630.868 S+POD+IMin+BIO
+el_price 630.868 S+POD+IMin+FC
+el_price 799.908 S+IMin+POD+BIO+FC
+el_price 799.908 S+IMin+POD+BIO
+el_price 799.908 S+IMin+POD+FC
+el_price 630.547 S+IMin+POD+IMin+BIO+FC
+el_price 630.547 S+IMin+POD+IMin+BIO
+el_price 630.547 S+IMin+POD+IMin+FC
+dh_price 7.192 W+POD+BIO+FC
+dh_price 7.192 W+POD+BIO
+dh_price 614.409 W+POD+FC
+dh_price 2442.864 W+POD+IMin+BIO+FC
+dh_price 2442.864 W+POD+IMin+BIO
+dh_price 2442.864 W+POD+IMin+FC
+dh_price 7.192 W+IMin+POD+BIO+FC
+dh_price 7.192 W+IMin+POD+BIO
+dh_price 7.192 W+IMin+POD+FC
+dh_price 7.192 W+IMin+POD+IMin+BIO+FC
+dh_price 7.192 W+IMin+POD+IMin+BIO
+dh_price 7.192 W+IMin+POD+IMin+FC
+dh_price 7.192 S+POD+BIO+FC
+dh_price 7.192 S+POD+BIO
+dh_price 7.192 S+POD+FC
+dh_price 47.007 S+POD+IMin+BIO+FC
+dh_price 47.007 S+POD+IMin+BIO
+dh_price 47.007 S+POD+IMin+FC
+dh_price 7.192 S+IMin+POD+BIO+FC
+dh_price 7.192 S+IMin+POD+BIO
+dh_price 7.192 S+IMin+POD+FC
+dh_price 47.007 S+IMin+POD+IMin+BIO+FC
+dh_price 47.007 S+IMin+POD+IMin+BIO
+dh_price 47.007 S+IMin+POD+IMin+FC
+P_imp_max 0.0 W+POD+BIO+FC
+P_imp_max 0.0 W+POD+BIO
+P_imp_max 265.654 W+POD+FC
+P_imp_max 48.932 W+POD+IMin+BIO+FC
+P_imp_max 48.932 W+POD+IMin+BIO
+P_imp_max 48.932 W+POD+IMin+FC
+P_imp_max 44.352 W+IMin+POD+BIO+FC
+P_imp_max 44.352 W+IMin+POD+BIO
+P_imp_max 44.352 W+IMin+POD+FC
+P_imp_max 44.352 W+IMin+POD+IMin+BIO+FC
+P_imp_max 44.352 W+IMin+POD+IMin+BIO
+P_imp_max 44.352 W+IMin+POD+IMin+FC
+P_imp_max 306.464 S+POD+BIO+FC
+P_imp_max 200.552 S+POD+BIO
+P_imp_max 286.779 S+POD+FC
+P_imp_max 142.717 S+POD+IMin+BIO+FC
+P_imp_max 142.717 S+POD+IMin+BIO
+P_imp_max 142.717 S+POD+IMin+FC
+P_imp_max 263.033 S+IMin+POD+BIO+FC
+P_imp_max 263.033 S+IMin+POD+BIO
+P_imp_max 263.033 S+IMin+POD+FC
+P_imp_max 142.717 S+IMin+POD+IMin+BIO+FC
+P_imp_max 142.717 S+IMin+POD+IMin+BIO
+P_imp_max 142.717 S+IMin+POD+IMin+FC
+Total cost 3441.001 W+PON+BIO+FC
+Total cost 4586.105 W+PON+BIO
+Total cost 4314.371 W+PON+FC
+Total cost 5303.168 W+PON+IMin+BIO+FC
+Total cost 6577.245 W+PON+IMin+BIO
+Total cost 5303.168 W+PON+IMin+FC
+Total cost 3442.932 W+IMin+PON+BIO+FC
+Total cost 4586.288 W+IMin+PON+BIO
+Total cost 4334.991 W+IMin+PON+FC
+Total cost 5300.068 W+IMin+PON+IMin+BIO+FC
+Total cost 6577.725 W+IMin+PON+IMin+BIO
+Total cost 5300.068 W+IMin+PON+IMin+FC
+Total cost 1789.37 S+PON+BIO+FC
+Total cost 1790.379 S+PON+BIO
+Total cost 1790.379 S+PON+FC
+Total cost 2391.748 S+PON+IMin+BIO+FC
+Total cost 2250.231 S+PON+IMin+BIO
+Total cost 2391.748 S+PON+IMin+FC
+Total cost 1790.517 S+IMin+PON+BIO+FC
+Total cost 1790.517 S+IMin+PON+BIO
+Total cost 1790.517 S+IMin+PON+FC
+Total cost 2391.619 S+IMin+PON+IMin+BIO+FC
+Total cost 2249.399 S+IMin+PON+IMin+BIO
+Total cost 2391.619 S+IMin+PON+IMin+FC
+Emissions 104533.333 W+PON+BIO+FC
+Emissions 485052.464 W+PON+BIO
+Emissions 242488.125 W+PON+FC
+Emissions 139595.078 W+PON+IMin+BIO+FC
+Emissions 482188.139 W+PON+IMin+BIO
+Emissions 139595.078 W+PON+IMin+FC
+Emissions 105236.081 W+IMin+PON+BIO+FC
+Emissions 485086.821 W+IMin+PON+BIO
+Emissions 242522.483 W+IMin+PON+FC
+Emissions 138637.341 W+IMin+PON+IMin+BIO+FC
+Emissions 482822.497 W+IMin+PON+IMin+BIO
+Emissions 138637.341 W+IMin+PON+IMin+FC
+Emissions 323323.516 S+PON+BIO+FC
+Emissions 323323.516 S+PON+BIO
+Emissions 323323.516 S+PON+FC
+Emissions 116743.632 S+PON+IMin+BIO+FC
+Emissions 288742.006 S+PON+IMin+BIO
+Emissions 116743.632 S+PON+IMin+FC
+Emissions 323355.727 S+IMin+PON+BIO+FC
+Emissions 323355.727 S+IMin+PON+BIO
+Emissions 323355.727 S+IMin+PON+FC
+Emissions 116803.936 S+IMin+PON+IMin+BIO+FC
+Emissions 288614.077 S+IMin+PON+IMin+BIO
+Emissions 116803.936 S+IMin+PON+IMin+FC
+Self-generation 1.0 W+PON+BIO+FC
+Self-generation 0.492 W+PON+BIO
+Self-generation 0.666 W+PON+FC
+Self-generation 0.634 W+PON+IMin+BIO+FC
+Self-generation 0.007 W+PON+IMin+BIO
+Self-generation 0.634 W+PON+IMin+FC
+Self-generation 0.999 W+IMin+PON+BIO+FC
+Self-generation 0.492 W+IMin+PON+BIO
+Self-generation 0.666 W+IMin+PON+FC
+Self-generation 0.635 W+IMin+PON+IMin+BIO+FC
+Self-generation 0.007 W+IMin+PON+IMin+BIO
+Self-generation 0.635 W+IMin+PON+IMin+FC
+Self-generation 0.134 S+PON+BIO+FC
+Self-generation 0.134 S+PON+BIO
+Self-generation 0.134 S+PON+FC
+Self-generation 0.709 S+PON+IMin+BIO+FC
+Self-generation 0.137 S+PON+IMin+BIO
+Self-generation 0.709 S+PON+IMin+FC
+Self-generation 0.134 S+IMin+PON+BIO+FC
+Self-generation 0.134 S+IMin+PON+BIO
+Self-generation 0.134 S+IMin+PON+FC
+Self-generation 0.709 S+IMin+PON+IMin+BIO+FC
+Self-generation 0.137 S+IMin+PON+IMin+BIO
+Self-generation 0.709 S+IMin+PON+IMin+FC
+fc_hours 147 W+PON+BIO+FC
+fc_hours 0 W+PON+BIO
+fc_hours 168 W+PON+FC
+fc_hours 167 W+PON+IMin+BIO+FC
+fc_hours 0 W+PON+IMin+BIO
+fc_hours 167 W+PON+IMin+FC
+fc_hours 147 W+IMin+PON+BIO+FC
+fc_hours 0 W+IMin+PON+BIO
+fc_hours 168 W+IMin+PON+FC
+fc_hours 168 W+IMin+PON+IMin+BIO+FC
+fc_hours 0 W+IMin+PON+IMin+BIO
+fc_hours 168 W+IMin+PON+IMin+FC
+fc_hours 0 S+PON+BIO+FC
+fc_hours 0 S+PON+BIO
+fc_hours 0 S+PON+FC
+fc_hours 89 S+PON+IMin+BIO+FC
+fc_hours 0 S+PON+IMin+BIO
+fc_hours 89 S+PON+IMin+FC
+fc_hours 0 S+IMin+PON+BIO+FC
+fc_hours 0 S+IMin+PON+BIO
+fc_hours 0 S+IMin+PON+FC
+fc_hours 89 S+IMin+PON+IMin+BIO+FC
+fc_hours 0 S+IMin+PON+IMin+BIO
+fc_hours 89 S+IMin+PON+IMin+FC
+Load factor 0.892 W+PON+BIO+FC
+Load factor nan W+PON+BIO
+Load factor 1.0 W+PON+FC
+Load factor 0.986 W+PON+IMin+BIO+FC
+Load factor nan W+PON+IMin+BIO
+Load factor 0.986 W+PON+IMin+FC
+Load factor 0.892 W+IMin+PON+BIO+FC
+Load factor nan W+IMin+PON+BIO
+Load factor 1.0 W+IMin+PON+FC
+Load factor 0.985 W+IMin+PON+IMin+BIO+FC
+Load factor nan W+IMin+PON+IMin+BIO
+Load factor 0.985 W+IMin+PON+IMin+FC
+Load factor nan S+PON+BIO+FC
+Load factor nan S+PON+BIO
+Load factor nan S+PON+FC
+Load factor 0.917 S+PON+IMin+BIO+FC
+Load factor nan S+PON+IMin+BIO
+Load factor 0.917 S+PON+IMin+FC
+Load factor nan S+IMin+PON+BIO+FC
+Load factor nan S+IMin+PON+BIO
+Load factor nan S+IMin+PON+FC
+Load factor 0.917 S+IMin+PON+IMin+BIO+FC
+Load factor nan S+IMin+PON+IMin+BIO
+Load factor 0.917 S+IMin+PON+IMin+FC
+TEr 1.731 W+PON+BIO+FC
+TEr 1.731 W+PON+BIO
+TEr 1.731 W+PON+FC
+TEr 1.731 W+PON+IMin+BIO+FC
+TEr 1.731 W+PON+IMin+BIO
+TEr 1.731 W+PON+IMin+FC
+TEr 1.731 W+IMin+PON+BIO+FC
+TEr 1.731 W+IMin+PON+BIO
+TEr 1.731 W+IMin+PON+FC
+TEr 1.731 W+IMin+PON+IMin+BIO+FC
+TEr 1.731 W+IMin+PON+IMin+BIO
+TEr 1.731 W+IMin+PON+IMin+FC
+TEr 0.442 S+PON+BIO+FC
+TEr 0.442 S+PON+BIO
+TEr 0.442 S+PON+FC
+TEr 0.442 S+PON+IMin+BIO+FC
+TEr 0.442 S+PON+IMin+BIO
+TEr 0.442 S+PON+IMin+FC
+TEr 0.442 S+IMin+PON+BIO+FC
+TEr 0.442 S+IMin+PON+BIO
+TEr 0.442 S+IMin+PON+FC
+TEr 0.442 S+IMin+PON+IMin+BIO+FC
+TEr 0.442 S+IMin+PON+IMin+BIO
+TEr 0.442 S+IMin+PON+IMin+FC
+T_mean 5.498 W+PON+BIO+FC
+T_mean 5.498 W+PON+BIO
+T_mean 5.498 W+PON+FC
+T_mean 5.498 W+PON+IMin+BIO+FC
+T_mean 5.498 W+PON+IMin+BIO
+T_mean 5.498 W+PON+IMin+FC
+T_mean 5.498 W+IMin+PON+BIO+FC
+T_mean 5.498 W+IMin+PON+BIO
+T_mean 5.498 W+IMin+PON+FC
+T_mean 5.498 W+IMin+PON+IMin+BIO+FC
+T_mean 5.498 W+IMin+PON+IMin+BIO
+T_mean 5.498 W+IMin+PON+IMin+FC
+T_mean 15.317 S+PON+BIO+FC
+T_mean 15.317 S+PON+BIO
+T_mean 15.317 S+PON+FC
+T_mean 15.317 S+PON+IMin+BIO+FC
+T_mean 15.317 S+PON+IMin+BIO
+T_mean 15.317 S+PON+IMin+FC
+T_mean 15.317 S+IMin+PON+BIO+FC
+T_mean 15.317 S+IMin+PON+BIO
+T_mean 15.317 S+IMin+PON+FC
+T_mean 15.317 S+IMin+PON+IMin+BIO+FC
+T_mean 15.317 S+IMin+PON+IMin+BIO
+T_mean 15.317 S+IMin+PON+IMin+FC
+Spot_mean 0.052 W+PON+BIO+FC
+Spot_mean 0.052 W+PON+BIO
+Spot_mean 0.052 W+PON+FC
+Spot_mean 0.052 W+PON+IMin+BIO+FC
+Spot_mean 0.052 W+PON+IMin+BIO
+Spot_mean 0.052 W+PON+IMin+FC
+Spot_mean 0.052 W+IMin+PON+BIO+FC
+Spot_mean 0.052 W+IMin+PON+BIO
+Spot_mean 0.052 W+IMin+PON+FC
+Spot_mean 0.052 W+IMin+PON+IMin+BIO+FC
+Spot_mean 0.052 W+IMin+PON+IMin+BIO
+Spot_mean 0.052 W+IMin+PON+IMin+FC
+Spot_mean 0.029 S+PON+BIO+FC
+Spot_mean 0.029 S+PON+BIO
+Spot_mean 0.029 S+PON+FC
+Spot_mean 0.029 S+PON+IMin+BIO+FC
+Spot_mean 0.029 S+PON+IMin+BIO
+Spot_mean 0.029 S+PON+IMin+FC
+Spot_mean 0.029 S+IMin+PON+BIO+FC
+Spot_mean 0.029 S+IMin+PON+BIO
+Spot_mean 0.029 S+IMin+PON+FC
+Spot_mean 0.029 S+IMin+PON+IMin+BIO+FC
+Spot_mean 0.029 S+IMin+PON+IMin+BIO
+Spot_mean 0.029 S+IMin+PON+IMin+FC
+el_price 0.671 W+PON+BIO+FC
+el_price 2527.527 W+PON+BIO
+el_price 1689.912 W+PON+FC
+el_price 244.067 W+PON+IMin+BIO+FC
+el_price 1840.164 W+PON+IMin+BIO
+el_price 244.067 W+PON+IMin+FC
+el_price 48.87 W+IMin+PON+BIO+FC
+el_price 2527.71 W+IMin+PON+BIO
+el_price 1690.094 W+IMin+PON+FC
+el_price 279.25 W+IMin+PON+IMin+BIO+FC
+el_price 1871.386 W+IMin+PON+IMin+BIO
+el_price 279.25 W+IMin+PON+IMin+FC
+el_price 1590.979 S+PON+BIO+FC
+el_price 1590.979 S+PON+BIO
+el_price 1590.979 S+PON+FC
+el_price 630.667 S+PON+IMin+BIO+FC
+el_price 1245.148 S+PON+IMin+BIO
+el_price 630.667 S+PON+IMin+FC
+el_price 1591.117 S+IMin+PON+BIO+FC
+el_price 1591.117 S+IMin+PON+BIO
+el_price 1591.117 S+IMin+PON+FC
+el_price 630.588 S+IMin+PON+IMin+BIO+FC
+el_price 1240.303 S+IMin+PON+IMin+BIO
+el_price 630.588 S+IMin+PON+IMin+FC
+dh_price 7.192 W+PON+BIO+FC
+dh_price 570.771 W+PON+BIO
+dh_price 536.207 W+PON+FC
+dh_price 2452.669 W+PON+IMin+BIO+FC
+dh_price 4221.655 W+PON+IMin+BIO
+dh_price 2452.669 W+PON+IMin+FC
+dh_price 7.192 W+IMin+PON+BIO+FC
+dh_price 570.771 W+IMin+PON+BIO
+dh_price 556.644 W+IMin+PON+FC
+dh_price 2446.658 W+IMin+PON+IMin+BIO+FC
+dh_price 4221.655 W+IMin+PON+IMin+BIO
+dh_price 2446.658 W+IMin+PON+IMin+FC
+dh_price 207.205 S+PON+BIO+FC
+dh_price 208.214 S+PON+BIO
+dh_price 208.214 S+PON+FC
+dh_price 47.007 S+PON+IMin+BIO+FC
+dh_price 512.155 S+PON+IMin+BIO
+dh_price 47.007 S+PON+IMin+FC
+dh_price 208.214 S+IMin+PON+BIO+FC
+dh_price 208.214 S+IMin+PON+BIO
+dh_price 208.214 S+IMin+PON+FC
+dh_price 47.007 S+IMin+PON+IMin+BIO+FC
+dh_price 512.155 S+IMin+PON+IMin+BIO
+dh_price 47.007 S+IMin+PON+IMin+FC
+P_imp_max 0.0 W+PON+BIO+FC
+P_imp_max 315.676 W+PON+BIO
+P_imp_max 265.676 W+PON+FC
+P_imp_max 48.932 W+PON+IMin+BIO+FC
+P_imp_max 198.988 W+PON+IMin+BIO
+P_imp_max 48.932 W+PON+IMin+FC
+P_imp_max 42.466 W+IMin+PON+BIO+FC
+P_imp_max 315.676 W+IMin+PON+BIO
+P_imp_max 265.676 W+IMin+PON+FC
+P_imp_max 82.466 W+IMin+PON+IMin+BIO+FC
+P_imp_max 228.672 W+IMin+PON+IMin+BIO
+P_imp_max 82.466 W+IMin+PON+IMin+FC
+P_imp_max 339.398 S+PON+BIO+FC
+P_imp_max 339.398 S+PON+BIO
+P_imp_max 339.398 S+PON+FC
+P_imp_max 142.717 S+PON+IMin+BIO+FC
+P_imp_max 217.166 S+PON+IMin+BIO
+P_imp_max 142.717 S+PON+IMin+FC
+P_imp_max 339.398 S+IMin+PON+BIO+FC
+P_imp_max 339.398 S+IMin+PON+BIO
+P_imp_max 339.398 S+IMin+PON+FC
+P_imp_max 142.717 S+IMin+PON+IMin+BIO+FC
+P_imp_max 213.29 S+IMin+PON+IMin+BIO
+P_imp_max 142.717 S+IMin+PON+IMin+FC
